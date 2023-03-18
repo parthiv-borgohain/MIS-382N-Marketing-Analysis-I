@@ -18,6 +18,6 @@ Interaction variables were created to determine whether the price coefficient an
 
 ### Conclusion
 
-Based on the findings, a model was used to test for an effect of running demos in all stores in the RM and NE markets for the week of July 20, 2010. Assuming retail and manufacturer margins, the expected profits for GoodBelly were $39,175.77.
+Based on the findings, a model was used to test for an effect of running demos in all stores in the RM and NE markets for the week of July 20, 2010. Assuming retail and manufacturer margins, the expected profits for GoodBelly were $32,232.89.
 
-The dynamic demo effects were found to be relatively important in the weeks subsequent to a promotion. Without the dynamic/lagged effects, the aggregate profit estimate (total for all four weeks) would be $4,551.04 lower.
+The dynamic demo effects were found to be relatively important in the weeks subsequent to a promotion. Without the dynamic/lagged effects, the aggregate profit estimate (total for all four weeks) would be $6,942.88 lower.
