@@ -1,4 +1,4 @@
-# Marketing Analytics - Time Series Forecasting
+# Marketing Analytics -Forecasting Apple Sales Revenue
 
 ### Introduction:
 
